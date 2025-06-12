@@ -1,0 +1,2 @@
+# GitHubTest_for_StudyCppConfigDebug
+测试arch分发下使用GitHub可行性
